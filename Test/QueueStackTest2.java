@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class MyTest {
+public class QueueStackTest2 {
     private static final int TIMEOUT = 200;
     private ArrayStack<String> arraySt;
     private LinkedStack<String> linkedSt;

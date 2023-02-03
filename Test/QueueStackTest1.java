@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 
 import static org.junit.Assert.*;
 
-public class Combine {
+public class QueueStackTest1 {
     private static final int TIMEOUT = 200;
     private ArrayStack<String> arrayStack;
     private LinkedStack<String> linkedStack;
